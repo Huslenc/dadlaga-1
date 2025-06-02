@@ -1,3 +1,8 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
 class Animal{
 	void walk(){
@@ -14,7 +19,7 @@ void sing (){
     System.out.println("I am singing");
     }
 } 
-public class bodlogo1{
+public class Solution{
 
    public static void main(String args[]){
 
